@@ -1,0 +1,16 @@
+# 秘密情報（APIキー・認証情報）
+.env
+.env.*
+*.key
+secrets*
+.clasprc.json
+
+# OS・エディタが自動で作るファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.tmp
+*.log
+~$*
