@@ -2,7 +2,7 @@
 
 スプレッドシートのキーワードから記事のタイトル・本文・メタディスクリプションを生成し、同じシートに書き出すツールです。
 
-[作品一覧](https://github.com/moedaichi0629-ai/landing-page) · [ポートフォリオ](https://moedaichi0629-ai.github.io/landing-page/)
+[作品一覧](https://github.com/moedaichi0629-ai/landing-page) · [ポートフォリオ](https://moedaichi0629-ai.github.io/)
 
 ![記事生成後のスプレッドシート](images/spreadsheet-result.png)
 
